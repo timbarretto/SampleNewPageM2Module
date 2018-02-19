@@ -1,0 +1,34 @@
+{
+  "name": "TimBarretto/SampleNewPage",
+  "description": "Module to Add A Sample New Page",
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.x",
+    "magento/project-community-edition": "*"
+  },
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "extra": {
+    "map": [
+      [
+        "*",
+        "TimBarretto/SampleNewPage/"
+      ]
+    ]
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Tim Barretto",
+      "homepage": "http://timbarretto.co.uk/",
+      "role": "Developer"
+    }
+  ]
+}
