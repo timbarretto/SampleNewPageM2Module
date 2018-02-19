@@ -6,14 +6,6 @@
   },
   "type": "magento2-module",
   "version": "0.0.1",
-  "extra": {
-    "map": [
-      [
-        "*",
-        "TimBarretto/SampleNewPage/"
-      ]
-    ]
-  },
   "license": [
     "OSL-3.0",
     "AFL-3.0"
