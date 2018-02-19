@@ -2,7 +2,7 @@
   "name": "TimBarretto/SampleNewPage",
   "description": "Module to Add A Sample New Page",
   "require": {
-    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|",
+    "php": "~5.5.0|~5.6.0|~7.0.x|~7.1.x",
     "magento/project-community-edition": "*"
   },
   "type": "magento2-module",
